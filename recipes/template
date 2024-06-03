@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World's Best Burger</title>
+</head>
+<body>
+    <h1>Burger</h1>
+    <img src="">
+    <h2></h2>
+    <h3> Ingredients</h3>
+    <p></p>
+        <ul>
+            <li><strong></strong> </li>
+            <li><strong></strong> </li>
+            <li><strong></strong> </li>
+            <li><strong></strong> </li>
+            <li><strong></strong> </li>
+            <li><strong></strong> </li>
+            <li><strong></strong> </li>
+            <li><strong></strong> </li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    <h3></h3>
+    <p></p>
+        <ol>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ol>
+</body>
+</html>
